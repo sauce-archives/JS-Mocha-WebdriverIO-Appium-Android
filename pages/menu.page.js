@@ -4,12 +4,11 @@
 var Page = require('./page');
 
 var MenuPage = Object.create(Page, {
-    arcsEntry: {
+    a/**/rcsEntry: {
         get: function () {
             return browser.element(`~Arcs`);
         }
     }
-tr
 });
 
 module.exports = MenuPage;
