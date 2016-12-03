@@ -4,7 +4,7 @@
 var Page = require('./page');
 
 var MenuPage = Object.create(Page, {
-    a/**/rcsEntry: {
+    arcsEntry: {
         get: function () {
             return browser.element(`~Arcs`);
         }
