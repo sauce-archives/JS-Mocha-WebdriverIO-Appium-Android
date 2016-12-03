@@ -66,6 +66,16 @@ exports.config = {
             app: 'https://github.com/appium/sample-code/blob/master/sample-code/apps/ApiDemos/bin/ApiDemos-debug.apk?raw=true',
             waitforTimeout: 300,
             commandTimeout: 300
+        }, {
+            browserName: '',
+            appiumVersion: '1.4.16',
+            deviceName: 'Android Emulator',
+            deviceOrientation: 'portrait',
+            platformVersion: '5.1',
+            platformName: 'Android',
+            app: 'https://github.com/appium/sample-code/blob/master/sample-code/apps/ApiDemos/bin/ApiDemos-debug.apk?raw=true',
+            waitforTimeout: 300,
+            commandTimeout: 300
         }
     ],
     //
