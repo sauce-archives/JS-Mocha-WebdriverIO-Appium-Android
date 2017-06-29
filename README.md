@@ -40,7 +40,7 @@ This code is provided on an "AS-IS” basis without warranty of any kind, either
 ### Resources
 ##### [Sauce Labs Documentation](https://wiki.saucelabs.com/)
 
-##### [Appium-AndroidHQ Documentation](http://www.Appium-Androidhq.org/docs/)
+##### [Appium Documentation](http://appium.io/slate/en/master/)
 
 ##### [WebdriverIO Documentation](http://webdriver.io/api.html)
 
