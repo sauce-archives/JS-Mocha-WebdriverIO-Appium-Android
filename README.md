@@ -1,3 +1,6 @@
+>**NOTE:<br/>**
+> This project is not maintained anymore, an `appium-boilerplate` can be found [here](https://github.com/webdriverio/appium-boilerplate)  with all needed information
+
 # JS-Mocha-WebdriverIO-Appium-Android-Sync
 [![Travis Status](https://travis-ci.org/saucelabs-sample-test-frameworks/JS-Mocha-WebdriverIO-Appium-Android-Sync.svg?branch=master)](https://travis-ci.org/saucelabs-sample-test-frameworks/JS-Mocha-WebdriverIO-Appium-Android-Sync)
 
